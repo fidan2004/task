@@ -1,0 +1,5 @@
+C:\Users\Hp\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.AssemblyInfo.cs
+C:\Users\Hp\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.csproj.CoreCompileInputs.cache
